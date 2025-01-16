@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Kaska/OneDrive/Documents/IIM/A4/00_Projet Personel/20241027_LaContreSoiree/Kassai/Contre/Content/__ExternalActors__/TY/8/NQ/93T0WQUS554LJLAHGE0ZML.uasset",
+				"C:/Users/Kaska/OneDrive/Documents/IIM/A4/00_Projet Personel/20241027_LaContreSoiree/Kassai/Contre/Content/Layout.umap",
 				"D:/IIM_MASTER_A4_A5/$Astra/Kassai/Contre/Content/Shaders/$MasterMaterial/Mat_Galaxy.uasset",
 				"D:/IIM_MASTER_A4_A5/$Astra/Kassai/Contre/Content/Layout.umap",
 				"D:/IIM_MASTER_A4_A5/$Astra/Kassai/Contre/Content/Assets/Blocking/blocking_0011.uasset",
@@ -288,8 +290,7 @@
 				"D:/UEV/LCS/Kassai/Contre/Content/__ExternalObjects__/TY/2/H5/KK0OZFN5MPRWZRL4W71BZF.uasset",
 				"D:/UEV/LCS/Kassai/Contre/Content/__ExternalObjects__/TY/D/NQ/7YSWN6MV2WPHT42KU6QG0T.uasset",
 				"D:/UEV/LCS/Kassai/Contre/Content/__ExternalObjects__/TY/0/IU/X8KIU1ADSG4O2KKHCN5PAQ.uasset",
-				"D:/UEV/LCS/Kassai/Contre/Content/__ExternalObjects__/TY/3/P5/QJNQJXVCWNF3QXICIF23W2.uasset",
-				"C:/Users/Kaska/OneDrive/Documents/IIM/A4/00_Projet Personel/20241027_LaContreSoiree/Kassai/Contre/Content/__ExternalActors__/TY/8/NQ/93T0WQUS554LJLAHGE0ZML.uasset"
+				"D:/UEV/LCS/Kassai/Contre/Content/__ExternalObjects__/TY/3/P5/QJNQJXVCWNF3QXICIF23W2.uasset"
 			]
 		}
 	]
